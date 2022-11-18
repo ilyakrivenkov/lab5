@@ -1,0 +1,17 @@
+﻿Построение начато 18.11.2022 9:10:15.
+     1>Проект "H:\llab5\lab5\lab5\lab5.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab5.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         lab5.vcxproj -> H:\llab5\lab5\Debug\lab5.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab5.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab5.lastbuildstate".
+     1>Построение проекта "H:\llab5\lab5\lab5\lab5.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.20
